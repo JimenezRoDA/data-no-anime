@@ -27,7 +27,7 @@
     <li><strong>data-no-mining.ipynb:</strong> extracción de datos (web scraping y API)</li>
     <li><strong>data-no-anime.ipynb:</strong> limpieza, análisis y visualizaciones</li>
     <li><strong>presentacion_prezi:</strong> <a href="https://prezi.com/view/OYETvZgYXblRRm50ONql/" target="_blank">Ver presentación</a></li>
-    <li><strong>datasets/:</strong> datos originales </li>
+    <li><strong>datasets/:</strong> datos originales, anime_data es el que tiene los añadidos del web scraping y la API </li>
   </ul>
 
   <h2 style="color:#ff637D;">📊 Recomendaciones clave</h2>
