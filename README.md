@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Análisis de tendencias en anime (2019–2024)</title>
+
 </head>
 <body>
 
@@ -23,11 +23,11 @@
 
   <h2 style="color:#ff637D;">📁 Estructura del repositorio</h2>
   <ul>
-    <li><strong>punto_PAI.py:</strong> funciones utilizadas en el análisis</li>
-    <li><strong>scraping_api.ipynb:</strong> extracción de datos (web scraping y API)</li>
-    <li><strong>analisis_tendencias.ipynb:</strong> limpieza, análisis y visualizaciones</li>
+    <li><strong>.py:</strong> funciones utilizadas en el análisis</li>
+    <li><strong>data-no-mining.ipynb:</strong> extracción de datos (web scraping y API)</li>
+    <li><strong>data-no-anime.ipynb:</strong> limpieza, análisis y visualizaciones</li>
     <li><strong>presentacion_prezi:</strong> <a href="https://prezi.com/view/OYETvZgYXblRRm50ONql/" target="_blank">Ver presentación</a></li>
-    <li><strong>datasets/:</strong> datos originales, transformados y complementarios</li>
+    <li><strong>datasets/:</strong> datos originales </li>
   </ul>
 
   <h2 style="color:#ff637D;">📊 Recomendaciones clave</h2>
@@ -47,7 +47,7 @@
 
   <h3 style="color:#66d7d1;">3. Explorar</h3>
   <ul>
-    <li>Más series que películas en géneros como Esports.</li>
+    <li>Más series que películas en géneros como Deportes.</li>
     <li>OVAs de franquicias conocidas suelen funcionar bien.</li>
     <li>Horror ha mejorado notablemente su valoración.</li>
   </ul>
